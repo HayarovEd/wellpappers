@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "image_name": "sunset_beach",
+    "cat_name": "Nature",
+    "hd_url": "https://trifled-horn.com"https://img.magnific.com/free-photo/surreal-neon-tropical-flowers_23-2151665761.jpg",
+    "compress_url": "https://trifled-horn.com"https://img.magnific.com/free-photo/surreal-neon-tropical-flowers_23-2151665761.jpg",
+    "tags": "sunset,beach,ocean",
+    "type": "static",
+    "likes": 152,
+    "size": 2048,
+    "download_count": 340,
+    "capacity": "4K"
+  },
+  {
+    "id": 2,
+    "image_name": "mountain_peak",
+    "cat_name": "Mountains",
+    "hd_url": "https://img1.akspic.ru/previews/2/9/7/1/8/181792/181792-roshha-rajan_rev-preuspevayushhij-pozhalujsta_pomogite-roshha_sotrudnichestva-x750.jpg",
+    "compress_url": "https://img1.akspic.ru/previews/2/9/7/1/8/181792/181792-roshha-rajan_rev-preuspevayushhij-pozhalujsta_pomogite-roshha_sotrudnichestva-x750.jpg",
+    "tags": "mountain,snow,peak",
+    "type": "static",
+    "likes": 89,
+    "size": 4096,
+    "download_count": 120,
+    "capacity": "8K"
+  }
+]
