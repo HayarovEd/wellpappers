@@ -1,18 +1,5 @@
 [
   {
-    "id": 1,
-    "image_name": "sunset_beach",
-    "cat_name": "Nature",
-    "hd_url": "https://img1.akspic.ru/previews/2/9/7/1/8/181792/181792-roshha-rajan_rev-preuspevayushhij-pozhalujsta_pomogite-roshha_sotrudnichestva-x750.jpg",
-    "compress_url": "https://img1.akspic.ru/previews/2/9/7/1/8/181792/181792-roshha-rajan_rev-preuspevayushhij-pozhalujsta_pomogite-roshha_sotrudnichestva-x750.jpg",
-    "tags": "sunset,beach,ocean",
-    "type": "static",
-    "likes": 152,
-    "size": 2048,
-    "download_count": 340,
-    "capacity": "4K"
-  },
-  {
     "id": 2,
     "image_name": "mountain_peak",
     "cat_name": "Mountains",
